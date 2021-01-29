@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func strConv() {
 	i, _ := strconv.Atoi("10")
 	y := i * 2
 	fmt.Println(y)

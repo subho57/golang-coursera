@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func fibo() {
 	var xtemp int
 	x1 := 0
 	x2 := 1

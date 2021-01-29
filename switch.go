@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func switchCase() {
 	x := 7
 	switch {
 	case x > 3:

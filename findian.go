@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-func main() {
+func findian() {
 	reader := bufio.NewReader(os.Stdin)
 
 	fmt.Printf("Enter a string: ")

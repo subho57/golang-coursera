@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func trunc() {
 	var input float64
 	prompt := "Enter a floating point number: "
 	fmt.Printf(prompt)
