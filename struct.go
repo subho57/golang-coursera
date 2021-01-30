@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// A P represents a struct containing a string and an corresponding integer, basically a key-value pair.
 type P struct {
 	x string
 	y int
