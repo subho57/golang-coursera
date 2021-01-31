@@ -13,7 +13,7 @@ type name struct {
 	lname string
 }
 
-func main() {
+func read() {
 	/**
 	 * Create a txt file with space separated first and last name only. Each line should contain one name only.
 	 * The name of the file should not be more than 1 word, suffixed by .txt extension.

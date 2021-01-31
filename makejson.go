@@ -8,7 +8,7 @@ import (
 	"os"
 )
 
-func main() {
+func makejson() {
 	// initialising bufio
 	reader := bufio.NewReader(os.Stdin)
 
